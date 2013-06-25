@@ -7,13 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -39,6 +32,8 @@
 	},
 	"file_history":
 	[
+		"/Users/SzeYen/rails_projects/demo_app/.gitignore",
+		"/Users/SzeYen/rails_projects/demo_app/gemfile",
 		"/Users/SzeYen/rails_projects/first_app/Gemfile",
 		"/Users/SzeYen/rails_projects/first_app/README.md",
 		"/Users/SzeYen/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
@@ -78,34 +73,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		},
 		{
